@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #3a1b13;
+    color: #fff;
+    padding: 16px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 16px;
+    text-decoration: underline overline rgb(169, 74, 23) 4px;
+}
+
+main {
+    padding: 32px;
+}
+
+.product {
+    background-color: #fff;
+    border: 7px solid #ddd;
+    margin: 16px 2px;
+    padding: 16px;
+}
+
+form {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    display: grid;
+}
+
+label {
+    display: inline-table;
+    margin: 8px;
+}
+
+input {
+    width: 97%;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+button {
+    background-color: #e80000;
+    color: #fff;
+    border-style: initial;
+    padding: 8px 16px;
+    cursor: pointer;
+}
